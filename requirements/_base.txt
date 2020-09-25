@@ -1,0 +1,8 @@
+pyyaml==5.3.1
+isort==5.5.3
+flake8==3.8.3
+django==3.1.1
+mysqlclient==2.0.1
+facebook-business==8.0.4
+rauth==0.7.3
+djangorestframework==3.11.1
